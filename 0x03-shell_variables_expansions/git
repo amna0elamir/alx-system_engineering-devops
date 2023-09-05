@@ -1,0 +1,4 @@
+# the git step
+git add .
+git commit -m "Shell, I/O Redirections and filters"
+git push
